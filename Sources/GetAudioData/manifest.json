@@ -1,0 +1,17 @@
+﻿{
+  "name": "GetAudioData",
+  "manifest_version": 2,
+  "version": "1.0",
+  "description": "just do it",
+  "browser_action": {
+    "default_icon": "me1.png"
+  },
+   "content_scripts": [
+    {
+      "matches": ["http://www.iflyrec.com/*"],
+      "js": ["jquery-3.2.1.min.js","getText.js"]
+    }
+  ]
+
+
+}
