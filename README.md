@@ -3,7 +3,7 @@
 ## This is the source code of TitleAuto , a java project, whitch can help  produce caption on PremiereCC-2017 
 <br/>
 
-In the Sources dir,you can find two derectories,one is a java project of TitleAuto,the other is js-plugin,allows you to catch caption text form <a href="http://www.iflyrec.com/" target="_blank">讯飞听见</a>.
+In the Sources dir,you can find two derectories,one is a java project of TitleAuto,the other is js-plugin,allows you to catch caption text from here <a href="http://www.iflyrec.com/" target="_blank">讯飞听见</a>.
 <br/>
 And when you run the project successfully,it will be looks like this：
 
